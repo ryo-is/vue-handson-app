@@ -66,4 +66,3 @@ $ yarn serve
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/95875/117f2164-043e-ce13-e7a6-e53d088cdc39.png)
 
 これで事前準備は完了です。
-本編は当日にご案内します。
