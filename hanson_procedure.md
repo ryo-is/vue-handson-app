@@ -18,7 +18,7 @@
 ```
 $ npm i -g @vue/cli
 $ vue --version
-3.11.0
+@vue/cli 4.0.5
 ```
 
 ### プロジェクトの作成
