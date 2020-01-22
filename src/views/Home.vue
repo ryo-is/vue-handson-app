@@ -27,12 +27,12 @@ export default {
   },
   data: function() {
     return {
-      text: "price",
-      num: 100,
+      text: "price0000000000",
+      num: 200,
       tax: 0.1,
       flag: true,
-      vShowFlag: false,
-      vIfFlag: false,
+      vShowFlag: true,
+      vIfFlag: true,
       listItems: ["apple", "banana", "orange"],
       inputText: ""
     }
